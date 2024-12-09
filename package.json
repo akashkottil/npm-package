@@ -1,0 +1,22 @@
+{
+  "name": "devkotnpm",
+  "version": "1.0.0",
+  "description": "testing creating npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashkottil/npm-package.git"
+  },
+  "keywords": [
+    "dknpm"
+  ],
+  "author": "akash kottil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashkottil/npm-package/issues"
+  },
+  "homepage": "https://github.com/akashkottil/npm-package#readme"
+}
